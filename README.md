@@ -41,7 +41,7 @@ Endpoint: `GET /students/all`
 ### 3. Compter le nombre d'étudiants
 
 Endpoint: `GET /students/count`
-<img width="1366" height="845" alt="count" src="https://github.com/user-attachments/assets/a2440062-7d67-422b-9ef1-3d18caaa3b26" />
+<img width="1366" height="773" alt="count" src="https://github.com/user-attachments/assets/0911708f-fdaa-4ade-98c8-bb820eb55824" />
 <img width="1366" height="679" alt="DB" src="https://github.com/user-attachments/assets/a0a32a4e-b63f-4fa6-94eb-2ad670d9e68e" />
 
 
